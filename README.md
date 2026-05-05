@@ -1,4 +1,4 @@
-# 🚗 Knight Rider: The Game — Fixes & Enhancements
+# Knight Rider: The Game — Fixes & Enhancements
 
 *Additional fixes for **Knight Rider: The Game (2002)** by Davilex*
 
