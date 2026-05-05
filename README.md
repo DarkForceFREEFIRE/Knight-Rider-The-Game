@@ -25,7 +25,7 @@ To resolve fullscreen glitches and performance lags on modern systems, you need 
 3. Run `dgVoodooCpl.exe` and configure the following settings
 
   - In the DirectX tab
-  - <img width="403" height="497" alt="image" src="https://github.com/user-attachments/assets/84ca4a9f-7940-4e51-8b66-62e9088e8437" />
+   <img width="403" height="497" alt="image" src="https://github.com/user-attachments/assets/84ca4a9f-7940-4e51-8b66-62e9088e8437" />
 
 
 ---
